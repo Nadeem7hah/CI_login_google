@@ -2,13 +2,6 @@
 
 /**
  * Auth Controller
- *
- * @package				Facial POC
- * @subpackage			Authentication
- * @category			Controller
- * @author				Mubasher Iqbal
- * @company				Simplicity Technologies Private Limited.
- * @description			This will be used to authenticate one hardcoded user.
  */
 class Auth extends CI_Controller {
 
